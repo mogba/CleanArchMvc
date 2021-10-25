@@ -1,0 +1,12 @@
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/bin/Debug/net5.0/CleanArchMvc.Domain.deps.json
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/bin/Debug/net5.0/CleanArchMvc.Domain.dll
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/bin/Debug/net5.0/ref/CleanArchMvc.Domain.dll
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/bin/Debug/net5.0/CleanArchMvc.Domain.pdb
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/CleanArchMvc.Domain.csproj.AssemblyReference.cache
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/CleanArchMvc.Domain.AssemblyInfoInputs.cache
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/CleanArchMvc.Domain.AssemblyInfo.cs
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/CleanArchMvc.Domain.dll
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/ref/CleanArchMvc.Domain.dll
+/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/obj/Debug/net5.0/CleanArchMvc.Domain.pdb
