@@ -1,15 +1,15 @@
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Application.deps.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Application.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/bin/Debug/net5.0/ref/CleanArchMvc.Application.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Application.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.AssemblyInfo.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/ref/CleanArchMvc.Application.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Domain.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Domain.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.csproj.CopyComplete
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.deps.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\bin\Debug\net5.0\ref\CleanArchMvc.Application.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CopyComplete
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb

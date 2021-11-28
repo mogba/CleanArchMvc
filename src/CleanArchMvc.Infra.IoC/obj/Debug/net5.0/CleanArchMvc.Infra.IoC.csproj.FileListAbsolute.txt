@@ -1,19 +1,19 @@
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.deps.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/ref/CleanArchMvc.Infra.IoC.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.AssemblyInfo.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/ref/CleanArchMvc.Infra.IoC.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Application.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Domain.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.Data.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Domain.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Application.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.Data.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.csproj.CopyComplete
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CopyComplete
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb

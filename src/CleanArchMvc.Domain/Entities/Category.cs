@@ -16,10 +16,11 @@ namespace CleanArchMvc.Domain.Entities
             Name = name;
         }
 
-        public Category(int id, string name) : base(id)
+        public Category(int id, string name)
         {
-            ValidateDomain(name);
+            ValidateDomain(id, name);
 
+            Id = id;
             Name = name;
         }
 
@@ -30,7 +31,15 @@ namespace CleanArchMvc.Domain.Entities
             Name = name;
         }
 
+        private void ValidateDomain(int id, string name)
+        {
+            DomainValidationException.When(
+                id < 0, 
+                "Invalid ID value."
+            );
 
+            ValidateDomain(name);
+        }
         private void ValidateDomain(string name)
         {
             DomainValidationException.When(

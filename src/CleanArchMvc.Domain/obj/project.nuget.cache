@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9umBEchBPiNrpgTKlL8epMK4PkRArZBFkfsneb+WexU+CYP6aByDqROPIZ9IewEo+F5aBik7ckoa+Totc+7aDg==",
+  "dgSpecHash": "pK2jk8X/gY1f38bQTH2THvThYZ61wjODboxNbBbw7tYQKUcqFOuyI7tRweSE29aBCqsUt7r4FZXoLXqvvcA5vg==",
   "success": true,
-  "projectFilePath": "/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+  "projectFilePath": "D:\\Meus arquivos\\Estudos\\Programação\\Projetos\\CleanArchMvc\\src\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

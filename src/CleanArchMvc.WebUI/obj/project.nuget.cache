@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xLRfFVAmZNlwiliSI5NUluHdGsfVn1lh2xuaXaZq+XwUJqFja/1vSn666rik3lXCL+4d1FuPriCS9vH9fZVuXQ==",
+  "dgSpecHash": "cQ4dcG8D1MJXGMc3JhP/G1fazrd/lNDZUkmeYXnAQblqhjntphOHhDpvWLEj5a+yvdWR4NQKy1c14LRoerq+Ew==",
   "success": true,
-  "projectFilePath": "/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "D:\\Meus arquivos\\Estudos\\Programação\\Projetos\\CleanArchMvc\\src\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

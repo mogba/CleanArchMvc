@@ -1,48 +1,47 @@
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/appsettings.Development.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/appsettings.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI.deps.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI.runtimeconfig.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI.runtimeconfig.dev.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/ref/CleanArchMvc.WebUI.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI.Views.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.WebUI.Views.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.csproj.AssemblyReference.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.GeneratedMSBuildEditorConfig.editorconfig
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.AssemblyInfoInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.AssemblyInfo.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.csproj.CoreCompileInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.RazorAssemblyInfo.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.RazorAssemblyInfo.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/staticwebassets/CleanArchMvc.WebUI.StaticWebAssets.Manifest.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/staticwebassets/CleanArchMvc.WebUI.StaticWebAssets.xml
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/scopedcss/bundle/CleanArchMvc.WebUI.styles.css
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.TagHelpers.input.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.TagHelpers.output.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.RazorCoreGenerate.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.RazorTargetAssemblyInfo.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.RazorTargetAssemblyInfo.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.Views.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/ref/CleanArchMvc.WebUI.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.genruntimeconfig.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/obj/Debug/net5.0/CleanArchMvc.WebUI.csproj.CopyComplete
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Application.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Domain.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Infra.Data.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Application.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Domain.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.WebUI/bin/Debug/net5.0/CleanArchMvc.Infra.Data.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\appsettings.Development.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\appsettings.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.exe
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.deps.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.dev.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.Views.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.Views.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Application.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.csproj.AssemblyReference.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.AssemblyInfoInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.AssemblyInfo.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\scopedcss\bundle\CleanArchMvc.WebUI.styles.css
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\CleanArchMvc.WebUI.StaticWebAssets.Manifest.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.input.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.output.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorCoreGenerate.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorTargetAssemblyInfo.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorTargetAssemblyInfo.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.Views.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.csproj.CopyComplete
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache

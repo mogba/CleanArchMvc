@@ -37,10 +37,11 @@ namespace CleanArchMvc.Domain.Entities
             string description,
             decimal price,
             int stock,
-            string image) : base(id)
+            string image)
         {
-            ValidateDomain(name, description, price, stock, image);
+            ValidateDomain(id, name, description, price, stock, image);
 
+            Id = id;
             Name = name;
             Description = description;
             Price = price;
@@ -65,6 +66,22 @@ namespace CleanArchMvc.Domain.Entities
             Image = image;
 
             CategoryId = categoryId;
+        }
+
+        private void ValidateDomain(
+            int id,
+            string name, 
+            string description,
+            decimal price,
+            int stock,
+            string image)
+        {
+            DomainValidationException.When(
+                id < 0, 
+                "Invalid ID value."
+            );
+
+            ValidateDomain(name, description, price, stock, image);
         }
 
         private void ValidateDomain(

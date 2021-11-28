@@ -6,16 +6,6 @@ namespace CleanArchMvc.Domain.Entities
     {
         public int Id { get; protected set; }
 
-        protected Entity(int id)
-        {
-            DomainValidationException.When(
-                id <= 0,
-                "Invalid ID. ID is required."
-            );
-
-            Id = id;
-        }
-
         protected Entity() {}
     }
 }

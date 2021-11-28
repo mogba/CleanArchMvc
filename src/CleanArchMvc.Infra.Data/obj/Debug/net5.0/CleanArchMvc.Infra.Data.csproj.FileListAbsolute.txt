@@ -1,15 +1,15 @@
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Infra.Data.deps.json
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Infra.Data.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/bin/Debug/net5.0/ref/CleanArchMvc.Infra.Data.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Infra.Data.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.AssemblyInfo.cs
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/ref/CleanArchMvc.Infra.Data.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Domain.dll
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Domain.pdb
-/home/gabriel/Documents/Projects/CleanArchMvc/src/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.csproj.CopyComplete
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.deps.json
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.csproj.CopyComplete
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
+D:\Meus arquivos\Estudos\Programação\Projetos\CleanArchMvc\src\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
