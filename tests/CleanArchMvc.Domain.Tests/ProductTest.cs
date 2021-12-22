@@ -22,7 +22,7 @@ namespace CleanArchMvc.Domain.Tests
         [Theory(DisplayName = "Create product with invalid name")]
         [InlineData(default, "Invalid name. Name is required.")]
         [InlineData("Na", "Invalid name. Name must be a minimum of 3 characters.")]
-        public void CreateCategory_GivenInvalidName_ShouldThrowError(string name, string errorMessage)
+        public void CreateProduct_GivenInvalidName_ShouldThrowError(string name, string errorMessage)
         {
             // Act
             Action action = () => GetNewProduct(name: name);
@@ -32,9 +32,9 @@ namespace CleanArchMvc.Domain.Tests
         }
 
         [Theory(DisplayName = "Create product with invalid description")]
-        [InlineData(default, "Invalid description. Description is required.")]
+        [InlineData("", "Invalid description. Description is required.")]
         [InlineData("Desc", "Invalid description. Description must be a minimum of 5 characters.")]
-        public void CreateCategory_GivenInvalidDescription_ShouldThrowError(string description, string errorMessage)
+        public void CreateProduct_GivenInvalidDescription_ShouldThrowError(string description, string errorMessage)
         {
             // Act
             Action action = () => GetNewProduct(description: description);
@@ -63,11 +63,13 @@ namespace CleanArchMvc.Domain.Tests
             action.Should().Throw<DomainValidationException>().WithMessage("Invalid stock value. Stock must be equal or greater than 0.");
         }
 
-        [Fact(DisplayName = "Create product without image")]
-        public void CreateProduct_GivenWithoutImage_ShouldThrowError()
+        [Theory(DisplayName = "Create product without image")]
+        [InlineData("")]
+        [InlineData(null)]
+        public void CreateProduct_GivenWithoutImage_ShouldThrowError(string image)
         {
             // Act
-            Action action = () => GetNewProduct(image: default);
+            Action action = () => GetNewProduct(image: image);
 
             // Assert
             action.Should().NotThrow<DomainValidationException>();

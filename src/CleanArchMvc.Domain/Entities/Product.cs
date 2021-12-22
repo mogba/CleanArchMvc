@@ -122,7 +122,7 @@ namespace CleanArchMvc.Domain.Entities
             );
 
             DomainValidationException.When(
-                image.Length > 250,
+                image?.Length > 250,
                 "Invalid image. Image must be a maximum of 250 characters"
             );
         }
