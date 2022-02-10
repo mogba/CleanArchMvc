@@ -14,7 +14,7 @@ namespace CleanArchMvc.Infra.IoC
             services.AddDbContext<ApplicationDbContext>(contextOptions =>
                 contextOptions.UseSqlServer(configuration.GetConnectionString("DefaultConnection"), sqlOptions =>
                     sqlOptions.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
-            
+
             services
                 .AddScoped<ICategoryRepository, CategoryRepository>()
                 .AddScoped<IProductRepository, ProductRepository>();

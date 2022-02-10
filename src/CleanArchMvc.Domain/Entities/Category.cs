@@ -40,6 +40,7 @@ namespace CleanArchMvc.Domain.Entities
 
             ValidateDomain(name);
         }
+
         private void ValidateDomain(string name)
         {
             DomainValidationException.When(
